@@ -1,0 +1,18 @@
+body{
+  background-color: hsl(195, 53%, 77%);
+}
+.container{
+  background-color: lightcyan;
+  padding: 20px;
+  height: 70vh;
+}
+.inputClass{
+  width: 200px;
+  height: 33px;
+  padding: 3px 5px;
+  border-radius: 4px;
+}
+p{
+  font-weight: bolder;
+  font-size: 1em;
+}
